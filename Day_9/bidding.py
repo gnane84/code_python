@@ -1,5 +1,3 @@
-
-
 def find_highest_price(biding_dictionary):
     winner = ""
     highest_bid = 0
